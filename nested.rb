@@ -1,3 +1,4 @@
+require "Pry"
 
 def hopper
 	programmer_hash =
